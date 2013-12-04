@@ -9,7 +9,7 @@ description:
 
 GDG Garage is an <span class="c1">informal</span>, <span class="c2">hyperlocal</span> & <span class="c3">regular</span> meeting of developers.
 
-<span class="c1">Informal</span> means that there is no speaker. People come and work together in small groups --- on whatever they feel like. <span class="c2">Hyperlocal</span> means it's a neighborhood thing. <img src="http://scr.templates.com/screenshots/illustrations/vector-illustration-of-a-toy-car-near-its-garage.1900.1917.jpg" class="illustration" />If you need to travel to a GDG Garage for more than 15 minutes, you should create your own. <span class="c3">Regular</span> means it happens monthly or weekly.
+<span class="c1">Informal</span> means that there is no speaker. People come and work together in small groups --- on whatever they feel like. <span class="c2">Hyperlocal</span> means it's a neighborhood thing. <img src="http://scr.templates.com/screenshots/illustrations/vector-illustration-of-a-toy-car-near-its-garage.1900.1917.jpg" class="illustration" />If you need to travel to a GDG Garage for more than 15 minutes, you are doing it wrong, and you should create your own. <span class="c3">Regular</span> means it happens monthly or weekly.
 
 Think of GDG Garage as a D&D<small class="star">* <span>(Dungeons & Dragons, probably the most popular role-playing game)</span></small> session, but instead of dice and sheets of paper, you have laptops and code.
 

@@ -110,7 +110,7 @@ h2 {
 
 h3 {
   margin-top: 1em;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 p, ul, ol, iframe {
@@ -204,6 +204,9 @@ table.nav td h1 {
   float: right;
   width: 50%;
   height: 300px;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 .garages p {
@@ -259,6 +262,9 @@ p.creative-commons img {
 }
 
 @media (max-width: 29em) {
+  body {
+    font-size: 100%;
+  }
   table.nav {
     font-size: 110%;
   }

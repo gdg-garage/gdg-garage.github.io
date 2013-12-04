@@ -5,16 +5,12 @@ description:
   TBD.
 ---
 
-Joining a nearby GDG Garage is as easy as contacting the admin and asking
-if there's room for you. In some cases, you can even just show up on the next 
-meeting --- all this depends on the admin.
+Have a look bellow to see which GDG Garage is located near you. When you've chosen,
+click the little join button.
 
-Have a look to see which GDG Garage is located near you (a list is below
-this map). When you've chosen, click the little join icon. This can take
-you to a G+ Page, G+ Community, microsite, form --- whatever the admin
-chose to be the preferred method of joining.
+This can take you to a G+ Page, G+ Community, meetups.com page, microsite, form --- whatever the GDG Garage's admin chose to be the preferred form of registration. When you're there, look for a way to register. <iframe class="mapsengine-iframe" src="https://mapsengine.google.com/map/embed?mid=zK2NY3PCBVSI.kLp0WVrzigEE" width="300" height="300"></iframe> In _some_ cases, people can show up without prior registration (but most admins will need to know about you beforehand).
 
-<iframe class="mapsengine-iframe" src="https://mapsengine.google.com/map/embed?mid=zK2NY3PCBVSI.kLp0WVrzigEE" width="300" height="300"></iframe>
+Suitable rooms for GDG Garages (big enough, easily reachable, with wifi, ...) are seldom free. The attendees will need to pay for it. <span class="c1">Please be prepared to chip in.</span> The amount should be stated somewhere on the registration page (but it's not always possible to know it exactly beforehand).
 
 Remember: if it takes you more than 15 minutes to
 get to a GDG Garage, <span class="c3">it's too far away</span>.

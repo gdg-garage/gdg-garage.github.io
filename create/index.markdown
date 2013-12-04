@@ -18,6 +18,6 @@ what you need to do:
 
 But let's say you want to get the <span class="c3">benefits</span> of
 being listed here on this site. Maybe you want to join the <span
-class="c4">global community</span> of GDG Garagists. If so, please fill the form below.
+class="c4">global community</span> of GDG Garagists. If so, please fill [the form](https://docs.google.com/forms/d/1Q_oTlubKK12geWENsNXs4q3GvES2W4gmG9lQ1eMRJ_k/viewform) below.
 
-FORM
+<iframe width="600" height="600" src="https://docs.google.com/forms/d/1Q_oTlubKK12geWENsNXs4q3GvES2W4gmG9lQ1eMRJ_k/viewform"></iframe>
