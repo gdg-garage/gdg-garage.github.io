@@ -1,6 +1,6 @@
 name: GDG Garage
-url: http://filiph.net/garage
-#url: 
+url: http://filiph.github.io/gdg-garage-site
+url: 
 markdown: redcarpet
 pygments: true
 encoding: UTF-8
