@@ -1,0 +1,32 @@
+-
+  name: What
+  question: What is it?
+  url: /
+- 
+  name: Why
+  question: Why does it exist?
+  url: /why/
+-
+  name: Who
+  question: Who is it for?
+  url: /who/
+-
+  name: Where
+  question: Where is it?
+  url: /where/
+    # -
+    #   name: When
+    #   question: When does it take place?
+    #   url: /when/
+-
+  name: How
+  question: How do I start one?
+  url: /how/
+-
+  name: Create
+  question: Create your own
+  url: /create/
+-
+  name: Join
+  question: Join one
+  url: /join/

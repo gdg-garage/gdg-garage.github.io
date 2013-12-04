@@ -1,0 +1,9 @@
+name: GDG Garage
+url: http://filiph.net/garage
+#url: 
+markdown: redcarpet
+pygments: true
+encoding: UTF-8
+safe: true
+redcarpet:
+  extensions: ['smart']

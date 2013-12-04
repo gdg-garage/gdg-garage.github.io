@@ -1,0 +1,27 @@
+<nav>
+  <table class="nav">
+    {% assign at_one_of_the_pages = false %}
+    {% for section in site.data.sections %}
+      <tr>
+        {% assign url = section.url | append: "index.html" %}
+        {% if include.param == url %}
+          <td class="gdg-garage-in-menu">GDG Garage</td>
+          <td>::</td>
+          <td><h1>{{ section.question }}</h1></td>
+          {% assign at_one_of_the_pages = true %}
+        {% else %}
+          <td></td>
+          <td>::</td>
+          <td><a href="{{ site.url }}{{ section.url }}" title="{{ section.question }}">{{ section.name }}</a></td>
+        {% endif %}
+      </tr>
+    {% endfor %}
+    {% if at_one_of_the_pages == false %}
+      <tr>
+        <td class="gdg-garage-in-menu">GDG Garage</td>
+        <td>::</td>
+        <td><h1>{{ page.title }}</h1></td>
+      </tr>
+    {% endif %}
+  </table>
+</nav>

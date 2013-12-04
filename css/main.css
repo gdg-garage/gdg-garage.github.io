@@ -1,0 +1,271 @@
+/* @override 
+	http://0.0.0.0:4000/css/main.css
+	http://filiph.net/garage/css/main.css
+*/
+
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/** Custom CSS **/
+
+body {
+  font-family: "Open Sans", "Istok Web", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  font-size: 110%;
+  line-height: 1.5em;
+  color: #4D4D4D;
+}
+
+div#wrapper {
+  max-width: 600px;
+  margin: 3em auto;
+  padding: 0 1em;
+}
+
+.illustration {
+  float: right;
+  margin-left: 2em;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  max-width: 33%;
+}
+
+.c1 {
+  color: #00933B;
+}
+
+.c2 {
+  color: #F90101;
+}
+
+.c3 {
+  color: #F2B50F; /* yellow */
+}
+
+.c4 {
+  color: #0266C8; /* blue */
+}
+
+a {
+  /*color: #0266C8;*/
+}
+
+h2 {
+  margin-top: 1em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h3 {
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+p, ul, ol, iframe {
+  margin-bottom: 1em;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+small {
+  font-size: 90%;
+}
+
+code {
+  font-family: monospace;
+  font-size: 120%;
+}
+
+li {
+  padding-left: 0;
+  margin-left: 3em;
+}
+
+ul > li {
+  list-style-type: circle;
+}
+
+ol > li {
+  list-style-type: decimal;
+}
+
+/* TOP NAVIGATION */
+
+table.nav {
+  margin-bottom: 2em;
+  font-size: 140%;
+  font-weight: normal;
+}
+
+table.nav td {
+  border: none;
+  padding: 0.1em 0.2em;
+}
+
+table.nav td h1 {
+  font-weight: bold;
+}
+
+table.nav td.gdg-garage-in-menu {
+  color: #4D4D4D;
+  font-weight: bold;
+}
+
+table.nav td a {
+  text-decoration: none;
+}
+
+table.nav td h1 {
+  color: black;
+}
+
+.clear-both {
+  clear: both;
+}
+
+/* STAR */
+
+.star {
+  font-size: 80%;
+  color: blue;
+  cursor: pointer;
+}
+
+.star span {
+  display: none;
+  color: #4D4D4D;
+}
+
+.star:active span {
+  display: inline;
+}
+
+/* GARAGES LIST */
+
+.mapsengine-iframe {
+  float: right;
+  width: 50%;
+  height: 300px;
+}
+
+.garages p {
+  font-size: 80%;
+  line-height: 1.5em;
+}
+
+.garages p a {
+  text-decoration: none;
+}
+
+.button {
+  background: #F90101;
+  color: white;
+  font-size: 70%;
+  padding: 0.1em 0.5em;
+  border: 1px solid #890101;
+  -webkit-border-radius: 0.2em;
+  text-decoration: none;
+}
+
+
+/* FOOTER */
+
+p.nav-footer {
+  margin-top: 5em;
+  font-size: 80%;
+  opacity: 0.50;
+}
+
+p.nav-footer a {
+  text-decoration: none;
+}
+
+p.creative-commons {
+  font-size: 70%;
+  line-height: 1.1em;
+  opacity: 0.50;
+}
+
+p.creative-commons img {
+  float: left;
+  margin-right: 1em;
+}
+
+/* MEDIA QUERIES */
+
+@media (max-width: 34em) {
+
+  table.nav {
+    font-size: 120%;
+  }
+}
+
+@media (max-width: 29em) {
+  table.nav {
+    font-size: 110%;
+  }
+}
+
+@media (max-width: 26em) {
+  table.nav {
+    font-size: 100%;
+  }
+}
