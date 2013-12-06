@@ -255,7 +255,6 @@ p.creative-commons img {
 /* MEDIA QUERIES */
 
 @media (max-width: 34em) {
-
   table.nav {
     font-size: 120%;
   }
@@ -271,6 +270,9 @@ p.creative-commons img {
 }
 
 @media (max-width: 26em) {
+  body {
+    font-size: 100%;
+  }
   table.nav {
     font-size: 100%;
   }
