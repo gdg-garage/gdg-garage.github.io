@@ -6,3 +6,4 @@ encoding: UTF-8
 safe: true
 redcarpet:
   extensions: ['smart']
+exclude: ['fetch_projects.dart']
