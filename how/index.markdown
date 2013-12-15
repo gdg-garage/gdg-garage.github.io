@@ -73,4 +73,4 @@ Someone's being difficult? Encourage them to start their own GDG Garage. No need
 
 [logo]: {{ site.url }}/how/logo.html
 [principles]: {{ site.url }}/how/principles.html
-[projects]: {{ site.url }}/how/projects.html
+[projects]: {{ site.url }}/projects/
