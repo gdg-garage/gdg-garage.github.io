@@ -6,4 +6,4 @@ encoding: UTF-8
 safe: true
 redcarpet:
   extensions: ['smart']
-exclude: ['fetch_projects.dart']
+exclude: ['fetch_projects.dart', 'start_server.sh', 'push_to_github_pages.sh']
