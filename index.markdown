@@ -13,6 +13,8 @@ GDG Garage is an <span class="c1">informal</span>, <span class="c2">hyperlocal</
 
 Think of GDG Garage as a D&D<small class="star">* <span>(Dungeons & Dragons, probably the most popular role-playing game)</span></small> session, but instead of dice and sheets of paper, you have laptops and code.
 
+Or think of it as a local fitness center, but instead of excercising muscles, you excercise your coding skills.
+
 These are the principles of GDG Garage:
 
 1. <strong class="c1">Nobody is perfect</strong>
