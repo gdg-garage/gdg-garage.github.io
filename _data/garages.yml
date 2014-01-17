@@ -1,12 +1,12 @@
 -
-  name: Smíchov
-  where: Vltavská 585/14, 150 00 Prague 5, Czech Republic
+  name: Prague One
+  where: Městská knihovna, Mariánské náměstí 98/1 110 00 Praha, Česká republika
   city: Prague
   country: Czech Republic
-  when: Every last Tuesday in month
+  when: Every other Monday starting 2014-01-20
   admin: Filip Hracek
   email: filip.hracek@gmail.com
-  joinurl: http://filiph.net/
+  joinurl: mailto:filip.hracek@gmail.com
 -
   name: Googleplex
   where: Google Bldg 46, 1565 Charleston Rd, Mountain View, CA 94043, US
