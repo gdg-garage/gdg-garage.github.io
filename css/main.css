@@ -160,13 +160,13 @@ ol > li {
 table.nav {
   font-family: "Open Sans", sans-serif;
   margin-bottom: 2em;
-  font-size: 140%;
+  font-size: 120%;
   font-weight: normal;
 }
 
 table.nav td {
   border: none;
-  padding: 0.1em 0.2em;
+  padding: 0.05em 0.2em;
 }
 
 table.nav td h1 {
