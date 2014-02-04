@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How does GDG Garage work?
+title: How do I create a GDG Garage?
 description: 
   TBD.
 ---

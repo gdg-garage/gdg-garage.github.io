@@ -10,18 +10,18 @@
   name: Who
   question: Who is it for?
   url: /who/
--
-  name: Where
-  question: Where is it?
-  url: /where/
+#-
+#  name: Where
+#  question: Where is it?
+#  url: /where/
 # -
 #   name: When
 #   question: When does it take place?
 #   url: /when/
--
-  name: How
-  question: How do I start one?
-  url: /how/
+#-
+#  name: How
+#  question: How do I start one?
+#  url: /how/
 -
   name: Create
   question: Create your own

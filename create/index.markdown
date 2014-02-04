@@ -5,14 +5,13 @@ description:
   TBD.
 ---
 
-So you're done reading the [How]({{ site.url }}/how/) and you're ready to make your
-very own GDG Garage official? <span class="c1">Fantastic!</span> Here's
+So you'd like to create your own GDG Garage?  <span class="c1">Fantastic!</span> Here's
 what you need to do:
 
 1. <span class="c2">Nothing.</span>
   * Seriously, if you just want to start, you don't need to tell us
     or anyone else. Go ahead and have your first meeting!
-  * Go back to the [How]({{ site.url }}/how/) to get some ideas on how
+  * See [the FAQ]({{ site.url }}/how/) to get some ideas on how
     to get started.
   * Erm, why are you still reading this?
 

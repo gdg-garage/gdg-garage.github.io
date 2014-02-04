@@ -22,9 +22,8 @@ These are the principles of GDG Garage:
     Dean<small class="star">* <span>(a legendary coder; try googling 'Jeff Dean facts')</span></small> does it.
   * It's not okay to mock someone for not knowing something.
 2. <strong class="c2">Try something new</strong>
-  * Get out of your [comfort zone](http://en.wikipedia.org/wiki/Comfort_zone).
-  * Are you a JavaScript guru? Say hello to `malloc()`.
-  * Are you a backend guy? Here's a couple of UX components!
+  * Get out of your [comfort zone](http://en.wikipedia.org/wiki/Comfort_zone). Are you a JavaScript guru? Say hello to `malloc()`. Are you a backend guy? Here's a couple of UX components!
+  * It's easy to diss another programming language or development approach. It's much more difficult (and useful) to actually learn something about it.
 3. <strong class="c3">Work in small groups</strong>
   * Don't work alone (you don't need a GDG Garage for that).
   * Don't work in larger groups (5+ people) --- it's [not effective](http://knowledge.wharton.upenn.edu/article/is-your-team-too-big-too-small-whats-the-right-number-2/).

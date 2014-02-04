@@ -17,3 +17,7 @@ Front-end, back-end. Static typing, dynamic typing, optional typing.
 As in Dungeon & Dragons, the diversity of the party (warrior, thief, 
 mage, cleric) is not necessarily something to avoid. Sometimes, it is of utmost
 importance!
+
+<span class="c3">Note:</span> Due to the fact that coding in a GDG Garage is done in teams, [you will need to know how to use git][Git].
+
+[Git]: http://git-scm.com/

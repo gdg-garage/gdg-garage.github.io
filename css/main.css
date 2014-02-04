@@ -160,7 +160,6 @@ ol > li {
 table.nav {
   font-family: "Open Sans", sans-serif;
   margin-bottom: 2em;
-  font-size: 120%;
   font-weight: normal;
 }
 
@@ -171,9 +170,11 @@ table.nav td {
 
 table.nav td h1 {
   font-weight: bold;
+  font-size: 140%;
 }
 
 table.nav td.gdg-garage-in-menu {
+  font-size: 140%;
   color: #4D4D4D;
   font-weight: bold;
 }
