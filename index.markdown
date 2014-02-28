@@ -1,36 +1,97 @@
 ---
 layout: default
-title: What is GDG Garage
-menuposition: top
+title: GDG Garage
 description: 
-  GDG Garage is an informal, hyperlocal & regular meeting of
-  developers.
+  It's kind of like a gym, but instead of excercising muscles, you excercise your coding skills.
 ---
 
-GDG Garage is an <span class="c1">informal</span>, <span class="c2">hyperlocal</span> & <span class="c3">regular</span> meeting of developers.
+## GDG Garage is an <span class="c1">hands-on</span>, <span class="c2">hyperlocal</span> & <span class="c3">regular</span> meeting of developers.
 
-<span class="c1">Informal</span> means that there is no speaker. People come and work together in small groups --- on whatever they feel like. <span class="c2">Hyperlocal</span> means it's a neighborhood thing. <img src="http://scr.templates.com/screenshots/illustrations/vector-illustration-of-a-toy-car-near-its-garage.1900.1917.jpg" class="illustration" />If you need to travel to a GDG Garage for more than 15 minutes, you are doing it wrong, and you should create your own. <span class="c3">Regular</span> means it happens monthly or weekly.
+<span class="c1">Hands-on</span> means that there is no speaker. People come and work together in small groups --- on whatever they feel like. <span class="c2">Hyperlocal</span> means it's a neighborhood thing. If you need to travel to a GDG Garage for more than 15 minutes, you are doing it wrong, and you should create your own. <span class="c3">Regular</span> means it happens bi-weekly or more often.
 
 Think of GDG Garage as a D&D<small class="star">* <span>(Dungeons & Dragons, probably the most popular role-playing game)</span></small> session, but instead of dice and sheets of paper, you have laptops and code.
 
-Or think of it as a local fitness center, but instead of excercising muscles, you excercise your coding skills.
+Or think of it as a local gym, but instead of excercising muscles, you excercise your coding skills.
 
-These are the principles of GDG Garage:
+<img class="big-illustration" src="img/sturmey-archer.gif">
 
-1. <strong class="c1">Nobody is perfect</strong>
-  * It's okay to ask for a code review<small class="star">* <span>(a way to peer-review your code; every line of code in Google needs to be code-reviewed before shipping)</span></small> or for help when you're stuck. Even Jeff
-    Dean<small class="star">* <span>(a legendary coder; try googling 'Jeff Dean facts')</span></small> does it.
-  * It's not okay to mock someone for not knowing something.
-2. <strong class="c2">Try something new</strong>
-  * Get out of your [comfort zone](http://en.wikipedia.org/wiki/Comfort_zone). Are you a JavaScript guru? Say hello to `malloc()`. Are you a backend guy? Here's a couple of UX components!
-  * It's easy to diss another programming language or development approach. It's much more difficult (and useful) to actually learn something about it.
-3. <strong class="c3">Work in small groups</strong>
-  * Don't work alone (you don't need a GDG Garage for that).
-  * Don't work in larger groups (5+ people) --- it's [not effective](http://knowledge.wharton.upenn.edu/article/is-your-team-too-big-too-small-whats-the-right-number-2/).
-4. <strong class="c4">Share your knowledge</strong>
-  * Helping someone with their problem usually means you get to improve
-    your own skills.
-  * A little help today can lead to a huge collaboration in the future.
+## The four principles
 
-Interested? See if there's any GDG Garage in your area that you could
-[join]({{ site.url }}/join/). You can also [create]({{ site.url }}/create/) your own.
+There are four principles of GDG Garage. We believe that by agreeing on these simple propositions, the Garagists are able to have a much better time together.
+
+<div class="pure-g-r principles">
+  <div class="pure-u-1-2">
+    <div class="principle">
+      <h3>1 &mdash; Nobody is perfect</h3>
+      <ul>
+        <li>It's okay to ask for a code review<small class="star">* <span>(a way to peer-review your code; every line of code in Google needs to be code-reviewed before shipping)</span></small> or for help when you're stuck.</li>
+        <li>It's not okay to mock someone for not knowing something.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="pure-u-1-2">
+    <div class="principle">
+      <h3>2 &mdash; Try something new</h3>
+      <ul>
+        <li>Get out of your <a href="http://en.wikipedia.org/wiki/Comfort_zone">comfort zone</a>. Are you a JavaScript guru? Say hello to <code>malloc()</code>. Are you a backend guy? Here's a couple of UX components.</li>
+        <li>It's easy to diss another programming language or development approach. It's much more difficult (and useful) to actually learn something about it.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="pure-u-1-2">
+    <div class="principle">
+      <h3>3 &mdash; Work in small groups</h3>
+      <ul>
+        <li>Don't work alone (you don't need a GDG Garage for that).</li>
+        <li>Don't work in larger groups (5+ people) --- it's <a href="http://knowledge.wharton.upenn.edu/article/is-your-team-too-big-too-small-whats-the-right-number-2/">not effective</a>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="pure-u-1-2">
+    <div class="principle">
+      <h3>4 &mdash; Share your knowledge</h3>
+      <ul>
+        <li>Helping someone with their problem usually means you get to improve
+    your own skills.</li>
+        <li>A little help today can lead to a huge collaboration in the future.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="right">
+  <a class="pure-button pure-button-primary" href="/participate/">Join</a>
+  <a class="pure-button pure-button-secondary" href="/organize/">Create</a>
+</div>Interested? You can either join a GDG Garage in your area, or create your own.
+
+## Why does it exist?
+
+Why would anyone want to go to (or create) a GDG Garage? There are many reasons.
+
+* _"My current employer/school doesn't <span class="c1">challenge/stimulate</span> me enough."_
+* _"I want to get <span class="c2">feedback</span> on my personal project from fellow developers."_
+* _"I want to <span class="c3">learn</span> from others."_
+* _"Coding alone is half as <span class="c4">fun</span>."_
+* _"<span class="c1">Code reviews</span> make my software better."_
+* _"I've been working alone for a while and I think I'm <span
+  class="c2">going crazy</span>."_
+* _"I'd like to make like-minded <span class="c3">friends</span>."_
+* _"I just want to <span class="c4">code</span>, period."_
+
+But why does it _exist_, you ask? It is to make the developer community
+<span class="c1">more connected and friendlier</span>.
+
+## How is this different from ____?
+
+### Hackerspaces
+
+TBA
+
+### Regular GDG meetups
+
+TBA
+
+### Coworking spaces

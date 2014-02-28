@@ -1,32 +1,20 @@
 -
-  name: What
+  name: Home
   question: What is it?
   url: /
-- 
-  name: Why
-  question: Why does it exist?
-  url: /why/
 -
-  name: Who
-  question: Who is it for?
-  url: /who/
-#-
-#  name: Where
-#  question: Where is it?
-#  url: /where/
+  name: Participate
+  question: How do I join?
+  url: /participate/
+-
+  name: Organize
+  question: How do I create my own?
+  url: /organize/
+-
+  name: Projects
+  question: What can I hack on?
+  url: /projects/
 # -
-#   name: When
-#   question: When does it take place?
-#   url: /when/
-#-
-#  name: How
-#  question: How do I start one?
-#  url: /how/
--
-  name: Create
-  question: Create your own
-  url: /create/
--
-  name: Join
-  question: Join one
-  url: /join/
+#   name: Garages
+#   question: Where is the nearest GDG Garage?
+#   url: /garages/

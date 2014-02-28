@@ -1,289 +1,43 @@
-/* @override 
-	http://0.0.0.0:4000/css/main.css
-	http://filiph.net/garage/css/main.css
-	http://gdg-garage.github.io/gdg-garage-site/css/main.css
-*/
-
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
-/* Global Reset */
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-/** Custom CSS **/
-
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.8em;
-  color: #4D4D4D;
-}
-
-div#wrapper {
-  max-width: 40em;
-  margin: 3em auto;
-  padding: 0 1em;
-}
-
-.illustration {
-  float: right;
-  margin-left: 2em;
-  margin-bottom: 0.5em;
-  margin-top: 0.5em;
-  max-width: 33%;
-}
-
-.c1 {
-  color: #00933B;
-}
-
-.c2 {
-  color: #F90101;
-}
-
-.c3 {
-  color: #F2B50F; /* yellow */
-}
-
-.c4 {
-  color: #0266C8; /* blue */
-}
-/*
-.c1, .c2, .c3, .c4 {
-  color: #4D4D4D;
-}*/
+/* @override http://0.0.0.0:4000/css/main.css */
 
 a {
-  /*color: #0266C8;*/
-}
-
-h1, h2, h3 {
-  font-family: "Open Sans", sans-serif;
-}
-
-h2 {
-  margin-top: 1em;
-  text-transform: uppercase;
-  font-weight: bold;
-}
-
-h3 {
-  margin-top: 1em;
-  font-weight: normal;
-}
-
-p, ul, ol, iframe {
-  margin-bottom: 1em;
-}
-
-em {
-  font-style: italic;
-}
-
-strong {
-  font-weight: bold;
-}
-
-small {
-  font-size: 90%;
-}
-
-code {
-  font-family: monospace;
-  font-size: 120%;
-}
-
-li {
-  padding-left: 0;
-  margin-left: 3em;
-}
-
-ul > li {
-  list-style-type: circle;
-}
-
-ol > li {
-  list-style-type: decimal;
-}
-
-/* TOP NAVIGATION */
-
-table.nav {
-  font-family: "Open Sans", sans-serif;
-  margin-bottom: 2em;
-  font-weight: normal;
-}
-
-table.nav td {
-  border: none;
-  padding: 0.05em 0.2em;
-}
-
-table.nav td h1 {
-  font-weight: bold;
-  font-size: 140%;
-}
-
-table.nav td.gdg-garage-in-menu {
-  font-size: 140%;
-  color: #4D4D4D;
-  font-weight: bold;
-}
-
-table.nav td a {
   text-decoration: none;
 }
 
-table.nav td h1 {
-  color: black;
+.right {
+  float: right;
+  margin-right: 5px;
+  margin-left: 1em;
 }
 
-.clear-both {
-  clear: both;
+.principles, .garages {
+  border-radius: 5px;
+  background: #eee;
 }
 
-/* STAR */
+.principle, .garage-listing, .project-listing {
+  padding: 0.5em 2em;
+}
+.principle h3, .garage-listing h3, .project-listing h3 {
+  font-weight: 300;
+  color: #1f8dd6;
+}
+.principle ul, .garage-listing ul {
+  padding-left: 1em;
+}
+.garage-listing .pure-button {
+  font-size: 80%;
+  font-weight: normal;
+}
+
+.suggestedTechnologies, .credits {
+  font-size: 80%;
+}
 
 .star {
-  font-size: 80%;
-  color: blue;
-  cursor: pointer;
+  display: none; /* TODO */
 }
 
-.star span {
-  display: none;
-  color: #4D4D4D;
-}
-
-.star:active span {
-  display: inline;
-}
-
-/* GARAGES LIST */
-
-.mapsengine-iframe {
-  float: right;
-  width: 50%;
-  height: 300px;
-  margin-left: 1em;
-  margin-bottom: 1em;
-  margin-top: 1em;
-}
-
-.garages p {
-  font-size: 80%;
-  line-height: 1.5em;
-}
-
-.garages p a {
-  text-decoration: none;
-}
-
-.button {
-  background: #F90101;
-  color: white;
-  font-size: 70%;
-  padding: 0.1em 0.5em;
-  border: 1px solid #890101;
-  -webkit-border-radius: 0.2em;
-  text-decoration: none;
-}
-
-
-/* FOOTER */
-
-p.nav-footer {
-  margin-top: 5em;
-  font-size: 80%;
-  opacity: 0.50;
-}
-
-p.nav-footer a {
-  text-decoration: none;
-}
-
-p.creative-commons {
-  font-size: 70%;
-  line-height: 1.1em;
-  opacity: 0.50;
-}
-
-p.creative-commons img {
-  float: left;
-  margin-right: 1em;
-}
-
-/* MEDIA QUERIES */
-
-@media (max-width: 34em) {
-  table.nav {
-    font-size: 120%;
-  }
-}
-
-@media (max-width: 29em) {
-  body {
-    font-size: 100%;
-  }
-  table.nav {
-    font-size: 110%;
-  }
-}
-
-@media (max-width: 26em) {
-  body {
-    font-size: 100%;
-  }
-  table.nav {
-    font-size: 100%;
-  }
+.big-illustration {
+  max-width: 100%;
 }

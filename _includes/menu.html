@@ -1,27 +1,21 @@
-<nav>
-  <table class="nav">
-    {% assign at_one_of_the_pages = false %}
-    {% for section in site.data.sections %}
-      <tr>
-        {% assign url = section.url | append: "index.html" %}
-        {% if include.param == url %}
-          <td class="gdg-garage-in-menu">GDG Garage</td>
-          <td>::</td>
-          <td><h1>{{ section.question }}</h1></td>
-          {% assign at_one_of_the_pages = true %}
-        {% else %}
-          <td></td>
-          <td>::</td>
-          <td><a href="{{ site.url }}{{ section.url }}" title="{{ section.question }}">{{ section.name }}</a></td>
-        {% endif %}
-      </tr>
-    {% endfor %}
-    {% if at_one_of_the_pages == false %}
-      <tr>
-        <td class="gdg-garage-in-menu">GDG Garage</td>
-        <td>::</td>
-        <td><h1>{{ page.title }}</h1></td>
-      </tr>
-    {% endif %}
-  </table>
-</nav>
+<!-- Menu toggle -->
+<a href="#menu" id="menuLink" class="menu-link">
+    <!-- Hamburger icon -->
+    <span></span>
+</a>
+
+<div id="menu">
+    <div class="pure-menu pure-menu-open">
+        <a class="pure-menu-heading" href="#">GDG Garage</a>
+
+        <ul>
+          {% assign at_one_of_the_pages = false %}
+          {% for section in site.data.sections %}
+            {% assign url = section.url | append: "index.html" %}
+              <li class="menu-item-divided {% if include.param == url %}pure-menu-selected{% endif %}">
+                <a href="{{ section.url }}" title="{{ section.question }}">{{ section.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+    </div>
+</div>
