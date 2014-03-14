@@ -22,6 +22,6 @@ class="c4">global community</span> of GDG Garagists. If so, please fill [the for
 
 ## Resources
 
-We highliy recommend that you [read the wiki](https://docs.google.com/a/google.com/document/d/1Y7xv-KlnOVNHxAV7flMuiODs_HGgMnh3CfsN5suz59o/edit?usp=sharing). (Okay, so it's just a Google Doc &mdash; but it's useful!)
+We highliy recommend that you [read the wiki](https://docs.google.com/document/d/1ugJdFem1w5WHhZn_-mVlBGN0Hs9TITPUInrr6W4yKu8/edit). (Okay, so it's just a Google Doc &mdash; but it's useful!)
 
 Downloads: to be added.
