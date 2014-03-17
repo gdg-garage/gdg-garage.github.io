@@ -67,7 +67,9 @@ There are four principles of GDG Garage. We believe that by agreeing on these si
   <a class="pure-button pure-button-secondary" href="/organize/">Create</a>
 </div>Interested? You can either join a GDG Garage in your area, or create your own.
 
-## Why does it exist?
+## Frequently Asked Questions (FAQ)
+
+### Why does it exist?
 
 Why would anyone want to go to (or create) a GDG Garage? There are many reasons.
 
@@ -84,14 +86,15 @@ Why would anyone want to go to (or create) a GDG Garage? There are many reasons.
 But why does it _exist_, you ask? It is to make the developer community
 <span class="c1">more connected and friendlier</span>.
 
-## How is this different from ____?
+### How is this different from ____?
 
-### Hackerspaces
+There are many similar concepts out there, so maybe it makes sense to also define GDG Garage by what it's _not_.
 
-TBA
+GDG Garage is similar, but not synonymous to a hackerspace. "A hackerspace is a community-operated workspace where people with common interests, often in computers, technology, science, digital art or electronic art, can meet, socialize and/or collaborate" ([Wikipedia](http://en.wikipedia.org/wiki/Hackerspace)). GDG Garage is often not a physical workspace – it's mostly just happening once every two weeks, and it can be set up at different places each time. It can be set up in someone's garage or at the public library. The common interest is software development, and the emphasis is on trying out new things. No GDG Garage should be just about meeting or socializing. Also, no one in a GDG Garage should be working solely on his or her stuff alone.
 
-### Regular GDG meetups
+GDG Garage is not a hacker dojo. Hacker dojos (and similar co-working places) are operated for profit, open every day, and mostly invite also non-programmers.
 
-TBA
+GDG Garages are not only for students, not by a long shot. Developers that are already employed benefit from the format at least as much as students.
 
-### Coworking spaces
+GDG Garage is not a regular GDG meetup, because it's more hands-on. There are no talks scheduled. For the organizer, it's a matter of securing a place, inviting people, and making sure everyone knows what GDG Garage is about.
+

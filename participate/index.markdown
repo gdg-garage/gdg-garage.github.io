@@ -14,16 +14,18 @@ There is <span class="c2">no required level of expertise</span>, and it's very m
 Hopefully, you'll be able to meet a lot of diffent people at your local
 GDG Garage. Students, professionals, startupists, tinkerers. Javaists,
 Rubyists, Pythonists, JavaScript'ists, C++'ers, Haskellians.
-Front-end, back-end. Static typing, dynamic typing, optional typing.
+Front-end, back-end. Static typing, dynamic typing, optional typing, "what-the-hell-is-typing?" typing.
 
 As in Dungeon & Dragons, the diversity of the party (warrior, thief, 
-mage, cleric) is not necessarily something to avoid. Sometimes, it is of utmost
-importance!
+mage, cleric) is not necessarily something to avoid. Sometimes, it is of utmost importance!
 
-<span class="c3">Note:</span> Due to the fact that coding in a GDG Garage is done in teams, [you will need to know how to use git][Git].
+<span class="c3">Note:</span> Due to the fact that coding in a GDG Garage is done in teams, [you may need to know how to use git][Git]. Here's a [nice interactive tutorial][gitTutorial] for the command line. If command line is not your thing, you can install GitHub's great app for [Windows][gitWin] or [Mac][gitMac]. If that's not enough for you, check out the [list of most git user interfaces][gitUIs].
 
 [Git]: http://git-scm.com/
-
+[gitTutorial]: http://try.github.io/levels/1/challenges/1
+[gitMac]: http://mac.github.com/
+[gitWin]: http://windows.github.com/
+[gitUIs]: https://git.wiki.kernel.org/index.php/InterfacesFrontendsAndTools#Graphical_Interfaces
 
 ## How to join
 
