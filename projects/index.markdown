@@ -17,7 +17,7 @@ Here are a few project ideas. You can see the raw data (in a Google Spreadsheet)
 	    <p class="suggestedTechnologies">Suggested technologies: {{ project.suggestedTechnologies }}</p>
 	    {% endif %}
 	   	{% if project.difficulty != "" %}
-	    <p class="difficulty">Difficulty: {{ project.difficulty }} (estimated man/hours: {{ project.estimatedPersonHours}})</p>
+	    <p class="difficulty">Difficulty: {{ project.difficulty }} (estimated person/hours: {{ project.estimatedPersonHours}})</p>
 	    {% endif %}
 	    <p class="credits">Author: {{ project.author }} (GDG Garage {{ project.homeGdgGarage }}). Date: {{ project.dateAdded }}.</p>
 	  </div>
