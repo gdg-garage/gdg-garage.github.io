@@ -1,4 +1,13 @@
 -
+  name: Atlanta
+  where: Freeside Atlanta, Metropolitan Parkway Southwest, Atlanta, GA, United States
+  city: Atlanta
+  country: United States
+  when: N/A
+  admin: Nathan Burnham, Jonathan Popham, Drew Morris
+  email: nburn42@gmail.com
+  joinurl: http://www.meetup.com/gdg-atlanta/
+-
   name: Prague One
   where: Městská knihovna, Mariánské náměstí 98/1 110 00 Praha, Česká republika
   city: Prague
@@ -7,12 +16,3 @@
   admin: Filip Hracek
   email: filip.hracek@gmail.com
   joinurl: mailto:filip.hracek@gmail.com
--
-  name: Googleplex
-  where: Google Bldg 46, 1565 Charleston Rd, Mountain View, CA 94043, US
-  city: Mountain View
-  country: United States
-  when: Every last Tuesday in month
-  admin: Filip Hracek
-  email: filip.hracek@gmail.com
-  joinurl: http://filiph.net/

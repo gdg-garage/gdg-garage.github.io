@@ -19,7 +19,7 @@ Front-end, back-end. Static typing, dynamic typing, optional typing, "what-the-h
 As in Dungeon & Dragons, the diversity of the party (warrior, thief, 
 mage, cleric) is not necessarily something to avoid. Sometimes, it is of utmost importance!
 
-<span class="c3">Note:</span> Due to the fact that coding in a GDG Garage is done in teams, [you may need to know how to use git][Git]. Here's a [nice interactive tutorial][gitTutorial] for the command line. If command line is not your thing, you can install GitHub's great app for [Windows][gitWin] or [Mac][gitMac]. If that's not enough for you, check out the [list of most git user interfaces][gitUIs].
+<span class="c3">Note:</span> Due to the fact that coding in a GDG Garage is done in teams, [you may need to know how to use git][Git]. Here's a [nice interactive tutorial][gitTutorial] for the command line. If command line is not your thing, you can install GitHub's great app for [Windows][gitWin] or [Mac][gitMac]. These two are pretty much one-click affairs! If that's not enough for you, check out the [list of most git user interfaces][gitUIs].
 
 [Git]: http://git-scm.com/
 [gitTutorial]: http://try.github.io/levels/1/challenges/1
@@ -29,8 +29,7 @@ mage, cleric) is not necessarily something to avoid. Sometimes, it is of utmost 
 
 ## How to join
 
-Have a look bellow to see which GDG Garage is located near you. When you've chosen,
-click the little join button.
+Have a look bellow to see which GDG Garage is located near you. When you've chosen, click the little join button.
 
 This can take you to a G+ Page, G+ Community, meetups.com page, microsite, form --- whatever the GDG Garage's admin chose to be the preferred form of registration. When you're there, look for a way to register. In _some_ cases, people can show up without prior registration (but most admins will need to know about you beforehand).
 
@@ -38,7 +37,7 @@ Suitable rooms for GDG Garages (big enough, easily reachable, with wifi, ...) ar
 
 Remember: if it takes you more than 15 minutes to
 get to a GDG Garage, <span class="c3">it's too far away</span>.
-[Organize](/create/) your own.
+[Organize](/organize/) your own.
 
 ## Garages
 
