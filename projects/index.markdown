@@ -7,6 +7,8 @@ description:
 
 Here are a few project ideas. You can see the raw data (in a Google Spreadsheet) [here](https://docs.google.com/spreadsheet/ccc?key=0AjP0HrbVsp3KdEdiUWlDakpaYUZRcTBNZ2cxaTlZalE&usp=sharing).
 
+Keep in mind that the best projects are those that people bring themselves and those that get decided upon on the spot. Take the list below as an inspiration only.
+
 <div class="pure-g-r projects">
   {% for project in site.data.projects %}
   <div class="pure-u-1-2">

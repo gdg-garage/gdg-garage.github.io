@@ -8,6 +8,42 @@
   email: nburn42@gmail.com
   joinurl: http://www.meetup.com/gdg-atlanta/
 -
+  name: Goa
+  where: Goa, India
+  city: Panjim
+  country: India
+  when: N/A
+  admin: Jonathan Pereira
+  email: jonathan.phoenix1@gmail.com
+  joinurl: https://plus.google.com/113652383739265225905
+-
+  name: GXG Jičín
+  where: 17. Listopadu 1074, 506 01 Jičín, Česká republika
+  city: Jičín
+  country: Czech Republic
+  when: N/A
+  admin: Radek Jiránek
+  email: archikultura@gmail.com
+  joinurl: http://geeklab.cz/
+-
+  name: JSS Noida
+  where: JSS Noida, India
+  city: Noida
+  country: India
+  when: N/A
+  admin: Deshraj
+  email: deshrajdry@gmail.com
+  joinurl: https://developers.google.com/groups/chapter/108501396545659745683/
+-
+  name: Ostrava Centrum
+  where: Impact HUB Ostrava, Sokolská třída 1263/24, 702 00 Ostrava, Czech Republic
+  city: Ostrava
+  country: Czech Republic
+  when: N/A
+  admin: Filip Goszler
+  email: goszler.filip@gmail.com
+  joinurl: http://gdgostrava.github.io/gdg-garage/
+-
   name: Prague One
   where: Městská knihovna, Mariánské náměstí 98/1 110 00 Praha, Česká republika
   city: Prague
@@ -16,3 +52,12 @@
   admin: Filip Hracek
   email: filip.hracek@gmail.com
   joinurl: mailto:filip.hracek@gmail.com
+-
+  name: Žďár
+  where: Biskupské gymnázium, 591 01 Žďár nad Sázavou, Česká republika
+  city: Žďár nad Sázavou
+  country: Czech Republic
+  when: N/A
+  admin: Matěj Horák
+  email: gdgzdarnadsazavou@gmail.com
+  joinurl: https://plus.google.com/communities/101527141656880582409
