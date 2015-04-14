@@ -53,7 +53,10 @@ Here's a list of GDG Garages that we know of. If you have a Garage and want it t
   <div class="pure-u-1-2">
 	  <div class="garage-listing">
 	    <h3 class="{% cycle 'c1', 'c2', 'c3', 'c4' %}"><a class="pure-button pure-button-primary right" href="{{ garage.joinurl }}">JOIN</a>GDG Garage {{garage.name}}</h3>
-	    <p>Where: <a class="where" href="https://maps.google.com/maps?q={{ garage.where | cgi_escape }}">{{ garage.where }}</a>. When: <em>{{ garage.when }}</em>. Who: {{ garage.admin }}. </p>
+	    <p>
+	    	Where: <a class="where" href="https://maps.google.com/maps?q={{ garage.where | cgi_escape }}">{{ garage.where }}</a>. 
+	    	Who: {{ garage.admin }}. 
+	    </p>
 	  </div>
 	</div>
   {% endfor %}
