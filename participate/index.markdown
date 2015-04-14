@@ -14,17 +14,17 @@ description:
 
 <span class="c1">Programmers</span>. GDG Garage is for programmers.
 
-There is <span class="c2">no required level of expertise</span>, and it's very much okay not to know everything. But it's kind of understood that if you go to a GDG Garage, you want to learn something new (see the principles on the [main page](/)).
+There is <span class="c2">no required level of expertise</span>, and it's very much okay not to know everything. In fact, it's kind of understood that you go to a GDG Garage to learn something new (see the principles on the [main page](/)).
 
 Hopefully, you'll be able to meet a lot of diffent people at your local
 GDG Garage. Students, professionals, startupists, tinkerers. Javaists,
 Rubyists, Pythonists, JavaScript'ists, C++'ers, Haskellians.
-Front-end, back-end. Static typing, dynamic typing, optional typing, "what-the-hell-is-typing?" typing.
+Front-end, back-end. Static typing, optional typing, dynamic typing, "what-the-hell-is-typing?" typing.
 
 As in Dungeon & Dragons, the diversity of the party (warrior, thief, 
 mage, cleric) is not necessarily something to avoid. Sometimes, it is of utmost importance!
 
-<span class="c3">Note:</span> Due to the fact that coding in a GDG Garage is done in teams, [you may need to know how to use git][Git]. Here's a [nice interactive tutorial][gitTutorial] for the command line. If command line is not your thing, you can install GitHub's great app for [Windows][gitWin] or [Mac][gitMac]. These two are pretty much one-click affairs! If that's not enough for you, check out the [list of most git user interfaces][gitUIs].
+<span class="c3">Note:</span> Due to the fact that coding in a GDG Garage is done in teams, you may need to know how to use git. Here's a [nice interactive tutorial][gitTutorial] for the command line. If command line is not your thing, you can install GitHub's great app for [Windows][gitWin] or [Mac][gitMac]. These two are pretty much one-click affairs! If that's not enough for you, check out the [list of most git user interfaces][gitUIs].
 
 [Git]: http://git-scm.com/
 [gitTutorial]: http://try.github.io/levels/1/challenges/1
@@ -41,7 +41,7 @@ This can take you to a G+ Page, G+ Community, meetups.com page, microsite, form 
 Suitable rooms for GDG Garages (big enough, easily reachable, with wifi, ...) are seldom free. The attendees will need to pay for it. <span class="c1">Please be prepared to chip in.</span> The amount should be stated somewhere on the registration page (but it's not always possible to know it exactly beforehand).
 
 Remember: if it takes you more than 15 minutes to
-get to a GDG Garage, <span class="c3">it's too far away</span>.
+get to a GDG Garage, <span class="c3">it's probably too far away</span>.
 [Organize](/organize/) your own.
 
 ## Garages

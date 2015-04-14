@@ -10,8 +10,8 @@ description:
 <span class="c1">Fantastic!</span> Here's what you need to do:
 
 1. <span class="c2">Nothing.</span>
-  * Seriously, if you just want to start, you don't need to tell us
-    or anyone else. Go ahead and have your first meeting!
+  * Seriously, if you just want to start, you don't need to tell us. 
+    Go ahead and have your first meeting!
   * See the Resources section below to get some ideas on how
     to get started.
   * Erm, why are you still reading this?
@@ -22,7 +22,7 @@ class="c4">global community</span> of GDG Garage Founders. If so, please [fill t
 
 ## Resources
 
-We highliy recommend that you [read the wiki](https://docs.google.com/document/d/1ugJdFem1w5WHhZn_-mVlBGN0Hs9TITPUInrr6W4yKu8/edit). (Okay, so it's currently just a Google Doc &mdash; but it's useful!)
+We highly recommend that you [read the wiki](https://docs.google.com/document/d/1ugJdFem1w5WHhZn_-mVlBGN0Hs9TITPUInrr6W4yKu8/edit). (Okay, so it's currently just a Google Doc &mdash; but it's useful!)
 
 ### Downloads (PDF)
 
