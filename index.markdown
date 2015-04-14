@@ -92,7 +92,7 @@ There are many similar concepts out there, so maybe it makes sense to also defin
 
 GDG Garage is similar, but not synonymous to a hackerspace. "A hackerspace is a community-operated workspace where people with common interests, often in computers, technology, science, digital art or electronic art, can meet, socialize and/or collaborate" ([Wikipedia](http://en.wikipedia.org/wiki/Hackerspace)). GDG Garage is often not a physical workspace – it's mostly just happening once every two weeks, and it can be set up at different places each time. It can be set up in someone's garage or at the public library or at a café. The common interest is software development, and the emphasis is on trying out new things. No GDG Garage should be just about meeting or socializing. Also, no one in a GDG Garage should be working solely on his or her stuff alone.
 
-GDG Garage is not a hacker dojo. Hacker dojos (and similar co-working places) are operated for profit, open every day, and mostly invite also non-programmers.
+GDG Garage is not a hacker dojo. Hacker dojos (and similar co-working places) are operated for profit and open every day.
 
 GDG Garages are not only for students, not by a long shot. Developers that are already employed benefit from the format at least as much as students.
 
