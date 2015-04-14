@@ -6,7 +6,9 @@ description:
   So you want to join a GDG Garage? Here's how.
 ---
 
-<div id="map-canvas">Loading map...</div>
+<div id="map-canvas">
+	<p id="map-canvas-loading-msg">Loading map...</p>
+</div>
 
 ## Who is GDG Garage for?
 

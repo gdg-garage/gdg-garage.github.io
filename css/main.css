@@ -52,6 +52,9 @@ h3 {
   margin: 0;
   margin-top: 2rem;
   padding: 0;
+}
+
+#map-loading-msg {
   text-align: center;
   line-height: 7rem;
 }
