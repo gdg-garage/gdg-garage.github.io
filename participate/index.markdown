@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Participate
+has_map: True
 description: 
   So you want to join a GDG Garage? Here's how.
 ---
+
+<div id="map-canvas"></div>
 
 ## Who is GDG Garage for?
 

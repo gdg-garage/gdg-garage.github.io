@@ -1,6 +1,7 @@
 -
   name: Atlanta
   where: Freeside Atlanta, Metropolitan Parkway Southwest, Atlanta, GA, United States
+  latlng: (33.706499, -84.408024)
   city: Atlanta
   country: United States
   when: N/A
@@ -10,6 +11,7 @@
 -
   name: Goa
   where: Goa, India
+  latlng: (15.299326, 74.123996)
   city: Panjim
   country: India
   when: N/A
@@ -19,6 +21,7 @@
 -
   name: GXG Jičín
   where: 17. Listopadu 1074, 506 01 Jičín, Česká republika
+  latlng: (50.434115, 15.353989)
   city: Jičín
   country: Czech Republic
   when: N/A
@@ -28,6 +31,7 @@
 -
   name: JSS Noida
   where: JSS Noida, India
+  latlng: (28.615763, 77.359271)
   city: Noida
   country: India
   when: N/A
@@ -37,6 +41,7 @@
 -
   name: Ostrava Centrum
   where: Impact HUB Ostrava, Sokolská třída 1263/24, 702 00 Ostrava, Czech Republic
+  latlng: (49.839294, 18.29234)
   city: Ostrava
   country: Czech Republic
   when: N/A
@@ -46,6 +51,7 @@
 -
   name: Prague One
   where: Městská knihovna, Mariánské náměstí 98/1 110 00 Praha, Česká republika
+  latlng: (50.087426, 14.417319)
   city: Prague
   country: Czech Republic
   when: Every other Monday starting 2014-01-20
@@ -55,6 +61,7 @@
 -
   name: Žďár
   where: Biskupské gymnázium, 591 01 Žďár nad Sázavou, Česká republika
+  latlng: (49.567426, 15.932816)
   city: Žďár nad Sázavou
   country: Czech Republic
   when: N/A
