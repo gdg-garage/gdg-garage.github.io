@@ -48,10 +48,12 @@ h3 {
 }
 
 #map-canvas {
-  height: 14em; 
+  height: 14rem; 
   margin: 0;
-  margin-top: 2em;
+  margin-top: 2rem;
   padding: 0;
+  text-align: center;
+  line-height: 7rem;
 }
 
 .gmaps-infowindow {

@@ -28,7 +28,8 @@
       function initialize() {
         var mapOptions = {
           zoom: 2,
-          center: new google.maps.LatLng(42, 8)
+          center: new google.maps.LatLng(42, 8),
+          scrollwheel: false
         };
 
         var map = new google.maps.Map(document.getElementById('map-canvas'),
