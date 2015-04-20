@@ -30,6 +30,7 @@ Nothing much yet, but more to come!
 
 * [A4 Flyer](/downloads/gdg-garage-flyer.pdf) (just "GDG Garage" typed in big letters horizontally on standard size paper)
 * [A4 Flyer with illustration](/downloads/gdg-garage-flyer-illustration.pdf) (as above, but spiced up with a simple illustration)
+* [A4 Principles](https://docs.google.com/document/d/1q0Gn6G99QoFcaaLVEUBvqwthy4xjt-XvwmQiuM_nQpM/edit?usp=sharing)
 * A4 direction arrows ("GDG Garage" in big letters and an arrow pointing to the specified direction):
   * [Up](/downloads/gdg-garage-flyer-up.pdf)
   * [Down](/downloads/gdg-garage-flyer-down.pdf)
