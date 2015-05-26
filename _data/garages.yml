@@ -9,6 +9,26 @@
   email: nburn42@gmail.com
   joinurl: http://www.meetup.com/gdg-atlanta/
 -
+  name: Bishkek
+  where: 7 Mukay Elebaev Street , Bishkek, Kyrgyzstan
+  latlng: (42.851466, 74.612594)
+  city: Bishkek
+  country: Kyrgyzstan
+  when: N/A
+  admin: Konstantin Zolotarev
+  email: konstantin.zolotarev@gmail.com
+  joinurl: https://plus.google.com/u/0/b/101317050058249569847/101317050058249569847/about
+-
+  name: Buffalo
+  where: 75B Groton Dr, Amherst, NY 14228, United States
+  latlng: (43.013114, -78.795036)
+  city: Buffalo, New York
+  country: United States
+  when: N/A
+  admin: Mingcong Zhang
+  email: mingcong880628@gmail.com
+  joinurl: https://plus.google.com/u/0/b/108106255897548082799/108106255897548082799/posts
+-
   name: Goa
   where: Goa, India
   latlng: (15.299326, 74.123996)
@@ -38,6 +58,16 @@
   admin: Radek Jiránek
   email: archikultura@gmail.com
   joinurl: http://geeklab.cz/
+-
+  name: Madrid
+  where: Madrid, Spain
+  latlng: (40.416775, -3.70379)
+  city: Madrid
+  country: Spain
+  when: N/A
+  admin: Carlos León
+  email: carlos.eduardo.leon.franco@gmail.com
+  joinurl: https://plus.google.com/u/0/b/110054117342146932054/communities/105293537887805429651
 -
   name: JSS Noida
   where: JSS Noida, India
