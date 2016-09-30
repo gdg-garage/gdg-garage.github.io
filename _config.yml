@@ -1,7 +1,7 @@
 name: GDG Garage
 url: http://gdg-garage.github.io/gdg-garage-site
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 encoding: UTF-8
 safe: true
 redcarpet:
