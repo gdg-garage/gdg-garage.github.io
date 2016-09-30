@@ -69,6 +69,16 @@
   email: carlos.eduardo.leon.franco@gmail.com
   joinurl: https://plus.google.com/u/0/b/110054117342146932054/communities/105293537887805429651
 -
+  name: Pilsen
+  where: Presslova 14, 301 00 Plzeň 3, Česká republika
+  latlng: (49.738115, 13.381954)
+  city: Pilsen
+  country: Czech Republic
+  when: N/A
+  admin: Filip Procházka, Honza Beneš
+  email: info@gdgplzen.cz
+  joinurl: http://garage.gdgplzen.cz/
+-
   name: JSS Noida
   where: JSS Noida, India
   latlng: (28.615763, 77.359271)
@@ -78,6 +88,16 @@
   admin: Deshraj
   email: deshrajdry@gmail.com
   joinurl: https://developers.google.com/groups/chapter/108501396545659745683/
+-
+  name: ORBIT Lab
+  where: Finlandsgade 28, Aarhus N, Denmark
+  latlng: (56.172652, 10.191262)
+  city: Aarhus
+  country: Denmark
+  when: N/A
+  admin: Kasper Løvborg Jensen
+  email: kasper@leafcastlelabs.com
+  joinurl: http://www.meetup.com/Google-Developer-Group-Aarhus/
 -
   name: Ostrava Centrum
   where: Impact HUB Ostrava, Sokolská třída 1263/24, 702 00 Ostrava, Czech Republic
